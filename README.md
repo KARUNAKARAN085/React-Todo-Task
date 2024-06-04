@@ -1,8 +1,10 @@
-# React + Vite
+# React Todo Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Created Todo Task with task name , Description & status.
+2. By default status is added as not completed for created todo.
+3. There are two buttons in the name of edit and Delete which used to perform update and delete created todos.
+4. By onclick on status it show a dropdown for completed and not completed by that we can change the status of todo.
+5. All todos is displayed in Card.
+6. There is a filter to display status completed, not completed and both statuses.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Submitted in Netlify: [React Todo Task]()
