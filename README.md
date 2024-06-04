@@ -7,4 +7,4 @@
 5. All todos is displayed in Card.
 6. There is a filter to display status completed, not completed and both statuses.
 
-Submitted in Netlify: [React Todo Task]()
+Submitted in Netlify: [React Todo Task](https://react-todo-task-rk.netlify.app)
